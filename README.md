@@ -20,11 +20,10 @@ Hi 👋  I'm Eddy.
 <br>
   
 <h3 align="center">I am a Fullstack developer who likes to craft solid and scalable frontend products with great user experience.</h3>
-<br>
 <p align="center">🌱 I’m currently learning: Typescript 💙</p>
 
-<br><br>
- 
+<br>
+
 <div align="center">
   <a href = "mailto:eddyyuxuan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
   <a href="https://www.linkedin.com/in/eddy-tan-57874619a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
